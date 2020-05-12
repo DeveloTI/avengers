@@ -2,6 +2,7 @@
 
 * Black panther
 * Black Widow
+* Nick Fure
 * Capitán America
 * Capitán Marvel
 * Falcon
